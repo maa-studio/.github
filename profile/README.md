@@ -2,5 +2,5 @@
 
 <h1 style="font-weight: 700; text-decoration: none; border-bottom: 0px">IT SOFTWARE BPR MAA</h1>
 <p>
-    We’ve suggested some tasks here in your organization's overview to help you get started.
+    We Build that we need
 </p>
